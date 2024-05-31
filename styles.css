@@ -1,0 +1,100 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: "Salsa", cursive;
+    background: linear-gradient(#E16B8c, #9F353A);
+     
+}
+.header {
+    margin:400px;
+    margin-bottom: auto;
+    margin-top: 10px;
+    padding: 2px 2px 2px;
+    background: #D0104c;
+
+     
+}
+
+.header-sub{
+    margin:200px;
+    margin-bottom:8px;
+    margin-top: 8px;
+    padding: 0px 5px 5px;
+    background:#DB4D6d;
+     
+}
+
+
+.title {
+    background: url(https://www.papayaglobal.com/wp-content/uploads/2016/05/japan-bg.jpg);
+    background-size: cover;
+    padding: 90px 0 90px 0;
+    color:white;
+}
+
+
+    
+    
+ #top-places{
+    
+    
+ }   
+ 
+ 
+#place-1, #place-2, #place-3 {
+    margin: 0 20px;
+}
+
+
+.experiences-border {
+    display: flex;
+    padding: 80px 0;
+    background: #FEDFE1;
+    width: 100%;
+}
+
+
+
+
+.tokyo,.osaka, .kyoto {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 10px dotted #CB1B45 ;
+    margin-bottom: 10px;
+
+}
+
+
+
+
+.card {
+    margin: 50px auto;
+    width: 400px;
+    height: 250px;
+    display: flex;
+    flex-direction: row-reverse;
+    padding: 15px 15px 5px;
+    background: #CB1B45;
+    border-radius: 10px;
+    border: 5px solid #faa307;
+}
+
+
+
+
+#details {
+    width: 400px;
+    margin: 30px auto 1;
+}
+
+.me {
+    width: 500px;
+    height: 190px;
+    border-radius: 10%;
+}
+
+
+
+
+
