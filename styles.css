@@ -23,7 +23,7 @@ body {
     margin:500px;
     margin-bottom:8px;
     margin-top: 8px;
-    padding: 0px 5px 5px;
+    padding: 0px;
     background:#DB4D6d;
      
 }
@@ -45,15 +45,15 @@ body {
 }
 
 
-
 .experiences-border {
     display: flex;
     justify-content:center;
     flex-direction: row;
     padding: 50px 100px 40px 100px;
     background: #FEDFE1;
-    width: 40%;
+    width: 30%;
     margin:auto;
+    
 }
 
 
@@ -67,6 +67,8 @@ body {
     margin-bottom: 10px;
 
 }
+
+    
 
 
 
@@ -103,8 +105,8 @@ body {
 
 
 #tokyo-img:hover {
-    background-image: url(https://i.redd.it/8ej57vivsq221.jpg);
-}
+    background-image: url()
 
 #osaka-img:hover {
     background-image: url(");
+}
