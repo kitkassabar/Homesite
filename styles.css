@@ -19,7 +19,7 @@ body {
      
 }
 
-.experiences {
+#top-places {
     color: white;
 }
 
@@ -33,9 +33,6 @@ body {
      
 }
 
-.experiences-border h3 {
-    color: black;
-}
 
 
 .title {
