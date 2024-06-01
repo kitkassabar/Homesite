@@ -19,6 +19,11 @@ body {
      
 }
 
+#top-places {
+    color:white;
+}
+
+
 .header-sub{
     margin:500px;
     margin-bottom:8px;
