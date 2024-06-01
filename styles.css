@@ -73,6 +73,7 @@ body {
 
 
 .card {
+    font-size: small;
     margin: 50px auto;
     width: 400px;
     height: 250px;
