@@ -5,8 +5,7 @@ body {
     background: linear-gradient(#E16B8c, #9F353A);
     display:flex ;
     flex-direction:column;
-    align-items: center;
-     
+    align-items: center; 
 }
 .header {
     
@@ -14,9 +13,7 @@ body {
     margin-bottom: auto;
     margin-top: 10px;
     padding: 2px 2px 2px;
-    background: #D0104c;
-
-     
+    background: #D0104c;   
 }
 
 #top-places {
